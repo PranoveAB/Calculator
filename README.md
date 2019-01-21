@@ -1,2 +1,2 @@
 
-The app is hosted in: https://pranoveab.github.io/
+The app is hosted on: https://pranoveab.github.io/
