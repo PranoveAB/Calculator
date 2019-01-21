@@ -52,7 +52,7 @@ input[name=equal] {
 input[name=equal]:hover {
     background-color: #4d90fe;
     background-image: linear-gradient(top, #4d90fe, #357ae8);
-    border: 1px solid #2f5bb7;
+    border: 1px solid #7b7b7c;
     color: #fefefe;
 }
 input[name=op] {
